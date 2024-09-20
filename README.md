@@ -13,7 +13,7 @@
 ## Hello World! 👋
 
 - 🔭 I’m currently working on algorithmic trading
-- 🌱 I’m currently learning different languages and cloud computing
+- 🌱 I’m learning different languages and cloud computing
 ---
 
 ### :fire: My Stats :
